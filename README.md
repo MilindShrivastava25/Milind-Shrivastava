@@ -4,9 +4,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 ### Welcome to my little corner of the internet 🌍 where I turn ☕ + 💡 into code.
 ### I’m on a journey of building, breaking, and fixing things (sometimes in that order 😅) while learning new tech along the way.
-### I spend my days juggling projects, deadlines, and the occasional “why isn’t this working?!” moment and learning a ton in the process. I like sharing the little wins, the fails, and anything that might help
-### someone else survive (and maybe even enjoy) the corporate and coding jungle. 🌱
-### If you’re here for code, inspiration, or just to see someone else figuring it all out—welcome! Let’s connect, swap ideas, and grow together. You bring the snacks, I’ll bring the code 🍪💻
+### I spend my days juggling projects, deadlines, and the occasional “why isn’t this working?!” moment and learning a ton in the process. I like sharing the little wins, the fails, and anything that might help  someone else survive (and maybe even enjoy) the corporate and coding jungle. 🌱
+### If you’re here for code, inspiration, or just to see someone else figuring it all out—welcome! Let’s connect, swap ideas, and grow together. You bring the curiosity, I’ll bring the coffee… and code ☕💻
 ---------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------
 ## 🛠️ Tools & Technologies  
