@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------------------------------------
-## Hello There👋! I'm Milind. 
+## Hello There👋! I'm Milind.
 ## 🔍 Data Analyst | 📊 Data Explorer | 🔄 Forever evolving | 💻 Tech Explorer
 ---------------------------------------------------------------------------------------------------------------------------------
 ### Welcome to my little corner of the internet 🌍 where I turn ☕ + 💡 into code.
